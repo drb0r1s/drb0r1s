@@ -26,7 +26,7 @@
     </li>
     
     <li>
-      <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i>
+      <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>
     </li>
   </ul>
 </p>
