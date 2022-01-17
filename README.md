@@ -20,12 +20,12 @@
   <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br>
   <b>React Projects:</b><br>
   
-  <ul>
+  <ul align="center">
     <li>
       <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>
     </li>
     <li>
-      <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>
+      <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i>
     </li>
   </ul>
 </p>
