@@ -17,12 +17,12 @@
 
 <p align="center">
   <b>discbot-easy</b> (<i>NPM: 26k Downloads</i>),<br>
-  <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br>
+  <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br><br>
   <b>React Projects:</b><br>
-  <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i><br>
-  <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i><br>
+  <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>,<br>
+  <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i>,<br>
   <i>React Playground (SOON)</i><br><br>
   <b>JavaScript Console:</b><br>
-  <i>T9 Decoder</i>
-  <i>Console Calculator</i>
+  <i>T9 Decoder</i>,<br>
+  <i>Console Calculator</i>,<br>
 </p>
