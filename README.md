@@ -25,5 +25,5 @@
   <i>React Playground (SOON)</i><br><br>
   <b>JavaScript Console:</b><br>
   <i>T9 Decoder</i>,<br>
-  <i>Console Calculator</i>,<br>
+  <i>Console Calculator</i><br>
 </p>
