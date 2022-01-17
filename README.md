@@ -24,7 +24,6 @@
     <li>
       <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>
     </li>
-    
     <li>
       <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>
     </li>
