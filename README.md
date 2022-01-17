@@ -19,6 +19,7 @@
   <b>discbot-easy</b> (<i>NPM: 26k Downloads</i>),<br>
   <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br><br>
   <b>React Projects:</b><br>
+  <i><a href="https://drb0r1s-my-grades.netlify.app">My Grades</a></i>,<br>
   <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>,<br>
   <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i>,<br>
   <i>React Playground (SOON)</i><br><br>
