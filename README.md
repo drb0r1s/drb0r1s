@@ -19,7 +19,7 @@
   <b>discbot-easy</b> (<i>NPM: 26k Downloads</i>),<br>
   <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br><br>
   <b>React Projects:</b><br>
-  <i><b>useResponsiveObj</b> - Custom React Hook</i>,<br>
+  <i><a href="https://github.com/drb0r1s/useResponsiveObj">useResponsiveObj</a> - Custom React Hook</i>,<br>
   <i><a href="https://drb0r1s-react-playground.netlify.app">React Playground</a></i>,<br>
   <i><a href="https://drb0r1s-weather-app.netlify.app">Weather App</a></i>,<br>
   <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i>,<br>
