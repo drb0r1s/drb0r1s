@@ -16,8 +16,8 @@
 <h3 align="center">Projects</h3>
 
 <div align="center">
-  <b>discbot-easy</b> (<i>NPM: 28k+ Downloads</i>),<br>
-  <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br><br>
+  <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br>
+  <b>discbot-easy</b> (<i>NPM: 28k+ Downloads</i>),<br><br>
   <b>Top React Projects:</b><br>
   <i><a href="https://drb0r1s-react.netlify.app/">DRB0R1S x React</a></i>,<br>
   <i><a href="https://github.com/drb0r1s/useResponsiveObj">useResponsiveObj</a></i>,<br>
