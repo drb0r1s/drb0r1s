@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">B O R I S</h1>
-<h2 align="center">drb0r1s / Front-end Web Developer</h2>
+<h2 align="center">drb0r1s<br>Front-end Web Developer</h2>
 
 <h3 align="center">Skills</h3>
 
