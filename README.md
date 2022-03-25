@@ -16,15 +16,13 @@
 <h3 align="center">Projects</h3>
 
 <div align="center">
-  <b>discbot-easy</b> (<i>NPM: 26k Downloads</i>),<br>
+  <b>discbot-easy</b> (<i>NPM: 28k+ Downloads</i>),<br>
   <b>DRB0R1S</b> (<i><a href="https://boris.ml">Portfolio</a></i>),<br><br>
   <b>Top React Projects:</b><br>
+  <i><a href="https://drb0r1s-react.netlify.app/">DRB0R1S x React</a></i>,<br>
   <i><a href="https://github.com/drb0r1s/useResponsiveObj">useResponsiveObj</a></i>,<br>
   <i><a href="https://drb0r1s-react-playground.netlify.app">React Playground</a></i>,<br>
-  <i><a href="https://drb0r1s-weather-app.netlify.app">Weather App</a></i>,<br>
-  <i><a href="https://drb0r1s-host-cloud-react.netlify.app">Host Cloud</a></i>,<br>
-  <i><a href="https://drb0r1s-chain-react.netlify.app">Chain</a></i>,<br>
-  <i><a href="https://drb0r1s-my-grades.netlify.app">My Grades</a></i><br><br>
+  <i><a href="https://drb0r1s-react-calculator.netlify.app/">Advanced Calculator</a></i><br><br>
 </div>
 
 <h3 align="center">Contact Me</h3>
