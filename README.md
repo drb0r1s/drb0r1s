@@ -25,8 +25,7 @@ The languages and libraries I know and use in my projects are:<br>
 <h3 align="center">Availability</h3>
 
 <p align="center">
-For the last few months I have been working on the development of an application for learning the Serbian language called <a href="https://github.com/StrahinjaLukic03/LearnSerbian"><b>Learn Serbian</b></a>.<br>
-However, I am <b>always available</b> to work on new projects, so you can contact me and we can discuss cooperation.
+For the last few months I have been working on the development of an application for learning the Serbian language called <a href="https://github.com/StrahinjaLukic03/LearnSerbian"><b>Learn Serbian</b></a>. However, I am <b>always available</b> to work on new projects, so you can contact me and we can discuss cooperation.
 </p>
 
 <h3 align="center">Contact Me</h3>
