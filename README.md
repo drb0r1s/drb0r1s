@@ -4,10 +4,34 @@
 
 <h1 align="center">drb0r1s<br>Front-end Web Developer</h1>
 
-<p align="center">
-Hello everyone, my name is <b>Boris</b> (<b>drbr0r1s</b>), I am a <i>Front-end Web Developer</i>. I have been studying Web Development for <i>more than 2 years</i> and I can say that I have <b>a lot of experience</b> in this field. For now, my experience is based on individual projects. Each of my projects is published on Github along with the source code and documentation, which tells more about the project.
-</p>
+<h3 align="center">About Me</h3>
 
 <p align="center">
-The languages and libraries I know and use in my projects are: <b>HTML</b>, <b>CSS</b>, <b>SASS</b>, <b>Bootstrap</b>, <b>JavaScript</b>, <b>React</b>, <b>Redux</b>, <b>Firebase</b>, <b>MongoDB</b>. 
+Hello everyone,<br>
+My name is <b>Boris</b> (<b>drbr0r1s</b>), I am a <i>Front-end Web Developer</i> from Serbia.<br>
+I have <b>more than 2 years of experience</b> on different types of projects, in different environments.
+</p>
+
+<h3 align="center">My Skills</h3>
+
+<p align="center">
+The languages and libraries I know and use in my projects are:<br>
+<b>HTML</b>, <b>XML</b>,<br>
+<b>CSS</b>, <b>SASS</b>, <b>Bootstrap</b>,<br>
+<b>JavaScript</b>, <b>React</b>, <b>Redux</b>,<br>
+<b>Firebase</b>, <b>MongoDB</b>. 
+</p>
+
+<h3 align="center">Availability</h3>
+
+<p align="center">
+For the last few months I have been working on the development of an application for learning the Serbian language called <a href="https://github.com/StrahinjaLukic03/LearnSerbian"><b>Learn Serbian</b></a>.<br>
+However, I am <b>always available</b> to work on new projects, so you can contact me and we can discuss cooperation.
+</p>
+
+<h3 align="center">Contact Me</h3>
+
+<p align="center">
+<i>Discord:</i> <b>boris</b>#1171<br>
+<i>Email:</i> <a href="mailto:drb0r1sdev@gmail.com"><b>drb0r1sdev@gmail.com</b></a>
 </p>
