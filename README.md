@@ -31,6 +31,6 @@ For the last few months I have been working on the development of an application
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
-<i>Discord:</i> <b>boris</b>#1171<br>
+<i>Discord:</i> <b>drb0r1s</b>#9999<br>
 <i>Email:</i> <a href="mailto:drb0r1sdev@gmail.com"><b>drb0r1sdev@gmail.com</b></a>
 </p>
