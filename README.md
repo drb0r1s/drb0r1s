@@ -32,5 +32,5 @@ For the last few months I have been working on the development of an application
 
 <p align="center">
 <i>Discord:</i> <b>drb0r1s</b>#9999<br>
-<i>Email:</i> <a href="mailto:drb0r1sdev@gmail.com"><b>drb0r1sdev@gmail.com</b></a>
+<i>Email:</i> <a href="mailto:contact@drb0r1s.xyz"><b>contact@drb0r1s.xyz</b></a>
 </p>
