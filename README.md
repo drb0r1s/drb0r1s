@@ -1,6 +1,6 @@
 # Boris (@drb0r1s)
 
-Computer Science BSc with 6 years of experience in software development. I started with JavaScript in 2020, moved into web frameworks (React, since 2021), and over time shifted my focus toward compiler theory, language design, and low level systems programming.
+BSc in Computer Science with 6 years of experience in software development. I started with JavaScript in 2020, moved into web frameworks (React, since 2021), and over time shifted my focus toward compiler theory, language design, and low level systems programming.
 
 I have solid, broad web development knowledge, but these days I'm mostly interested in what happens "under the hood": how languages are tokenized, parsed, compiled, and turned into something that runs. That interest is the throughline behind both of my main projects below.
 
