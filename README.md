@@ -11,7 +11,7 @@ A full featured, web based assembly language simulator, built as my bachelor's t
 
 It's not a toy interpreter: it's a full simulation environment running entirely in the browser, no installation needed. Custom 16 bit CPU, a 58 keyword instruction set, a two pass assembler, interrupt handling, a RAM and register visualizer, and a WebGL graphical display, all built on a two threaded architecture (UI thread + a Web Worker assembler thread) communicating through SharedArrayBuffer.
 
-**Stack:** JavaScript, React, Manager (my custom state-control library), SCSS, Monaco Editor, WebGL, Canvas 2D, Web Workers + SharedArrayBuffer.
+**Stack:** `JavaScript`, `React`, `Manager` (my custom state-control library), `SASS`, `Monaco Editor`, `WebGL`, `Canvas 2D`, `Web Workers + SharedArrayBuffer`.
 
 ### DOKTOR
 A web rendering language with its own compiler, layout engine, runtime, and renderer, built entirely from scratch, from tokenizing to pixel drawing.
@@ -20,11 +20,11 @@ DOKTOR sits between HTML/CSS and a native layout engine: no browser layout engin
 
 It's a solo project driven by genuine curiosity about compilers, layout engines, and systems level graphics programming, not a framework wrapper.
 
-**Stack:** Rust, JavaScript, WebAssembly, WebGL, Canvas 2D, custom compiler pipeline.
+**Stack:** `Rust`, `JavaScript`, `WebAssembly`, `WebGL`, `Canvas 2D`.
 
-## What I work with
+## Areas of Interest
 
-`JavaScript` `React` `Rust` `WebGL` `Compiler Design` `Systems Programming` `Web Workers`
+`Compiler Theory`, `Compiler Design`, `Programming Languages`, `Systems Programming`, `Web`, `Computer Graphics`, `Parallel & Concurrent Programming`.
 
 ## Find my work
 
