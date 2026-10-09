@@ -6,7 +6,7 @@ I have solid, broad web development knowledge, but these days I'm mostly interes
 
 ## The Most Important Projects
 
-### Assembly Reality: Advanced Web Based Assembly Language Simulator
+### Assembly Reality: Advanced Web-Based Assembly Language Simulator
 A full featured, web based assembly language simulator, built as my bachelor's thesis at UP FAMNIT and actively used by students in a university hardware course.
 
 It's not a toy interpreter: it's a full simulation environment running entirely in the browser, no installation needed. Custom 16 bit CPU, a 58 keyword instruction set, a two pass assembler, interrupt handling, a RAM and register visualizer, and a WebGL graphical display, all built on a two threaded architecture (UI thread + a Web Worker assembler thread) communicating through SharedArrayBuffer.
