@@ -6,14 +6,14 @@ I have solid, broad web development knowledge, but these days I'm mostly interes
 
 ## The Most Important Projects
 
-### Assembly Reality (ARy)
+### Assembly Reality: Advanced Web Based Assembly Language Simulator
 A full featured, web based assembly language simulator, built as my bachelor's thesis at UP FAMNIT and actively used by students in a university hardware course.
 
 It's not a toy interpreter: it's a full simulation environment running entirely in the browser, no installation needed. Custom 16 bit CPU, a 58 keyword instruction set, a two pass assembler, interrupt handling, a RAM and register visualizer, and a WebGL graphical display, all built on a two threaded architecture (UI thread + a Web Worker assembler thread) communicating through SharedArrayBuffer.
 
 **Stack:** `JavaScript`, `React`, `Engineer` (my custom state-control library), `SASS`, `Monaco Editor`, `WebGL`, `Canvas 2D`, `Web Workers + SharedArrayBuffer`.
 
-### DOKTOR
+### DOKTOR: Web Rendering Language
 A web rendering language with its own compiler, layout engine, runtime, and renderer, built entirely from scratch, from tokenizing to pixel-drawing, with no browser layout engine involved. DOKTOR is the subject of my Master's thesis at UP FAMNIT, carried out in the HICUP lab.
 
 DOKTOR is a system of six projects: DOKTOR Compiler, DOKTOR Runtime, DOKTOR Web, DOKTOR Scripts, DOKTOR Server, and the planned DOKTOR Code (interactivity). Source code runs through a multi-stage pipeline (tokenizer → parser → resolver → shaper → scroller → painter → packer) and is compiled to a compact binary format. A Rust/WASM runtime then renders it with hand-written WebGL shaders and a Canvas 2D text layer, supported by a CLI and a live-reload dev server.
