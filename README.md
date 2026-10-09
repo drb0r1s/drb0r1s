@@ -14,13 +14,17 @@ It's not a toy interpreter: it's a full simulation environment running entirely 
 **Stack:** `JavaScript`, `React`, `Engineer` (my custom state-control library), `SASS`, `Monaco Editor`, `WebGL`, `Canvas 2D`, `Web Workers + SharedArrayBuffer`.
 
 ### DOKTOR
-A web rendering language with its own compiler, layout engine, runtime, and renderer, built entirely from scratch, from tokenizing to pixel drawing.
+A web rendering language with its own compiler, layout engine, runtime, and renderer, built entirely from scratch, from tokenizing to pixel-drawing, with no browser layout engine involved. DOKTOR is the subject of my Master's thesis at UP FAMNIT, carried out in the HICUP lab.
 
-DOKTOR sits between HTML/CSS and a native layout engine: no browser layout engine involved, no DOM, no CSS cascade. Source code goes through a real multi stage pipeline (tokenizer → parser → resolver → shaper → scroller → painter → packer) down to a compact binary format, then runs through a Rust/WASM runtime and hand written WebGL + Canvas 2D renderers.
+DOKTOR is a system of six projects: DOKTOR Compiler, DOKTOR Runtime, DOKTOR Web, DOKTOR Scripts, DOKTOR Server, and the planned DOKTOR Code (interactivity). Source code runs through a multi-stage pipeline (tokenizer → parser → resolver → shaper → scroller → painter → packer) and is compiled to a compact binary format. A Rust/WASM runtime then renders it with hand-written WebGL shaders and a Canvas 2D text layer, supported by a CLI and a live-reload dev server.
 
-It's a solo project driven by genuine curiosity about compilers, layout engines, and systems level graphics programming, not a framework wrapper.
+The language is a deliberate design experiment: a small, closed set of block types, a closed set of properties, and exactly one way to solve each layout problem.
 
-**Stack:** `Rust`, `JavaScript`, `WebAssembly`, `WebGL`, `Canvas 2D`.
+**Research value:** Few resources exist on designing a language together with its entire execution pipeline, especially for the web, where existing approaches are mostly commercial and poorly documented. The thesis asks whether a purpose-built pipeline, with no DOM, no CSS cascade, and no general-purpose layout solver, can deliver expressive, performant UIs. It is evaluated on expressiveness across a reference set of interfaces, non-redundancy of properties, and performance compared to HTML/CSS.
+
+**Future work:** interactivity via multi-language scripting (JavaScript, Rust, and DOKTORScript (a future work idea of developing custom scripting language)), optimization, and thorough testing.
+
+**Stack:** `Rust`, `JavaScript`, `WebAssembly`, `WebGL`, `Canvas 2D`, `Node.js`.
 
 ## Areas of Interest
 
